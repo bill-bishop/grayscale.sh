@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Usage:
-#   graysize 100x100 input_folder output_folder
+#   graysize.sh 100x100 input_folder output_folder
 
 
 size=$1
