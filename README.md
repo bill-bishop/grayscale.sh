@@ -12,5 +12,5 @@ You need imagemagick installed on your machine to use this script.
     # todo
 
 ## Usage
-    graysize 100x100 input_folder output_folder
+    graysize.sh 100x100 input_folder output_folder
 
