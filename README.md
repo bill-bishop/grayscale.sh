@@ -1,4 +1,4 @@
-#graysize.sh
+# graysize.sh
 
 Bash script which wraps imagemagick for batch resizing, cropping, contrasting,
 and grayscaling images.
@@ -9,8 +9,8 @@ neural networks which require grayscale images of a specific size.
 You need imagemagick installed on your machine to use this script.
 
 ## Installation
-    `# todo`
+    # todo
 
 ## Usage
-    `graysize 100x100 input_folder output_folder`
+    graysize 100x100 input_folder output_folder
 
